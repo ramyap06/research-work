@@ -1,0 +1,14 @@
+# Raw microarray data (Affymetrix CEL files)
+*.CEL
+*.cel
+*.CEL.gz
+*.cel.gz
+
+# Extracted GEO archives
+*_RAW/
+*.tar
+*.gz
+
+# Large intermediate outputs
+*.rds
+*.RData
