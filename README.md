@@ -1,2 +1,2 @@
 # kong-lab-ml-project
-Research assistant work
+Machine learning research project developed as a research assistant to study immune gene signatures in breast cancer.
